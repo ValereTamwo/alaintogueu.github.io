@@ -1,0 +1,522 @@
+[
+  {
+        "year":"2011",
+        "publication":[
+            {
+                "id":1,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Martin Siewe Siewe",
+                        "link":"http://siewe.con"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Multisolitons and stability of two hump solitons of upper cutoff mode in discrete electrical transmission line",
+                "journal":"Physics Letters A",
+                "ref":"http://www.sciencedirect.com/science?_ob=PublicationURL&_tockey=%23TOC%235538%232011%23996249992%232882739%23FLA%23&_cdi=5538&_pubType=J&view=c&_auth=y&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=b3d7e0e66b78c7c2a43a874f88e89a0f",
+                "pages":"1104-1109",
+                "type":"Elvelier"
+             }
+            ]
+    },
+    {
+        "year":"2013",
+        "publication":[
+            {
+                "id":2,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Martin Siewe Siewe",
+                        "link":"http://siewe.con"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Supratransmission phenomenon in a discrete electrical lattice with nonlinear dispersion",
+                "journal":"Commun Non linear Sci Numer Simulat",
+                "ref":"http://dx.doi.org/10.1016/j.cnsns.2012.09.005",
+                "pages":"946-952",
+                "type":"Elvelier"
+             },
+              {
+                "id":3,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Supratransmission induced by waves collisions in a discrete electrical lattice",
+                "journal":"Physical Review E-Statistical,Nonlinear and Soft Matter Physics 88, 040901(R)",
+                "ref":"http://link.aps.org/doi/10.1103/PhysRevE.88.040901",
+                "pages":"",
+                "type":"American Physical Society (APS)"
+             }
+            ]
+    },
+    {
+        "year":"2014",
+        "publication":[
+            {
+                "id":4,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Mobility of discrete multibreathers in the exciton dynamics of the Davydov model with saturable nonlinearities",
+                "journal":"Phys. Rev. E 90, 043203 (2014)",
+                "ref":"hhttp://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.043203",
+                "pages":"",
+                "type":"American Physical Society (APS)"
+             }
+            ]
+    },
+    {
+        "year":"2015",
+        "publication":[
+            {
+                "id":5,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Effects of next-nearest-neighbor interactions on discrete multibreathers corresponding to Davydov model with saturable nonlinearities",
+                "journal":"Physics Letters A",
+                "ref":"http://www.sciencedirect.com/science/journal/03759601/379/45",
+                "pages":"",
+                "type":"Elsevier",
+                "link_name":"Volume 379, Issues 45–46,"
+
+             }
+            ]
+    },
+        {
+        "year":"2016",
+        "publication":[
+            {
+                "id":6,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Nonlinear supratransmission of multibreathers in discrete nonlinear Schrödinger equation with saturable nonlinearities,",
+                "journal":"Wave Motion 65 (2016)",
+                "ref":"http://dx.doi.org/10.1016/j.wavemoti.2016.04.002",
+                "pages":"112–118",
+                "type":"Elsevier",
+                "link_name":"doi:10.1016/j.wavemoti.2016.04.002"
+
+             },
+            {
+                "id":7,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Biological multi-rogue waves in discrete nonlinear Schrödinger equation with saturable nonlinearities",
+                "journal":"Physics Letters A 2016",
+                "ref":"http://dx.doi.org/10.1016/j.physleta.2016.07.011",
+                "pages":"112–118",
+                "type":"Elsevier",
+                "link_name":"http://dx.doi.org/10.1016/j.physleta.2016.07.011"
+
+             }
+            ]
+    },
+    {
+        "year":"2017",
+        "publication":[
+            {
+                "id":8,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                     {
+                        "name":"Martin Siewe Siewe",
+                        "link":"http://siewe.con"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Homoclinic nonlinear band gap transmission threshold in discrete optical waveguide arrays",
+                "journal":"Commun Nonlinear Sci Numer Simulat 50 (2017)",
+                "ref":"http://dx.doi.org/10.1016/j.cnsns.2017.02.001",
+                "pages":"29–34",
+                "type":"Elsevier",
+                "link_name":"http://dx.doi.org/10.1016/j.cnsns.2017.02.001"
+
+             },
+            {
+                "id":9,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang"
+                    }
+                ],
+                "title":"Multibreathers-impurity interactions in the discrete nonlinear Schrödinger model",
+                "journal":"Chaos, Solitons and Fractals 99 (2017)",
+                "ref":"http://dx.doi.org/10.1016/j.chaos.2017.04.007",
+                "pages":"180–184",
+                "type":"Elsevier",
+                "link_name":"http://dx.doi.org/10.1016/j.chaos.2017.04.007"
+
+             },
+             {
+                "id":10,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Joel Durel Tchinang Tchameu",
+                        "link":"http://Tchinang.com"
+                    },
+                    {
+                        "name":"S. I. Fewo ",
+                        "link":"http://Fewo.com"
+                    },
+                    {
+                        "name":"T. C. Kofane",
+                        "link":"http://kofane.com"
+                    }
+                ],
+                "title":"Chameleon's behavior of modulable nonlinear electrical transmission line",
+                "journal":"Commun Non linear Sci Numer Simulat (2017)",
+                "ref":"https://doi.org/10.1016/j.cnsns.2017.04.031",
+                "pages":"22–30",
+                "type":"Elsevier",
+                "link_name":"https://doi.org/10.1016/j.cnsns.2017.04.031"
+
+             }
+            ]
+    },
+     {
+        "year":"2018",
+        "publication":[
+            {
+                "id":11,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"E. Nkendji Kenkeu",
+                        "link":"http://kenkeu.com"
+                    },
+                    {
+                        "name":"Joseph Djako",
+                        "link":"http://joseph.com"
+                    }
+                ],
+                "title":"Backward-wave propagation with vertical dust grain oscillations in dusty plasma crystals",
+                "journal":"Physics of Plasmas 25 , 123701 (2018",
+                "ref":"",
+                "pages":"",
+                "type":"American Institute of Physics (AIP)",
+                "link_name_green":"doi: 10.1063/1.5054095. Was highlighted by the Journal as Editor’s pick"
+
+             }
+            ]
+    },
+     {
+        "year":"2019",
+        "publication":[
+            {
+                "id":12,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Masayuki Kimura",
+                        "link":"http://kimura"
+                    },
+                    {
+                        "name":"Yusuke Doi",
+                        "link":"http://yusuke.com"
+                    }
+                ],
+                "title":"Supratransmission in discrete one-dimensional lattices with the cubic–quintic nonlinearity",
+                "journal":"Nonlinear Dyn 95 (2019) 2461–2468",
+                "ref":"https://doi.org/10.1007/s11071-018-4707-y",
+                "pages":"",
+                "type":"Springer",
+                "link_name":"https://doi.org/10.1007/s11071-018-4707-y"
+
+             }
+            ]
+    },
+     {
+        "year":"2020",
+        "publication":[
+            {
+                "id":13,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"J. E. Macias-Diaz",
+                        "link":"http://macias.com"
+                    }
+                   
+                ],
+                "title":"Energy transmission in nonlinear chains of harmonic oscillators with long-range interactions",
+                "journal":"Results in Physics 18 (2020) 103210",
+                "ref":"https://doi.org/10.1016/j.rinp.2020.103210",
+                "pages":"",
+                "type":"Elsevier",
+                "link_name":"https://doi.org/10.1016/j.rinp.2020.103210"
+
+             },
+             {
+                "id":14,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"J. E. Macias-Diaz",
+                        "link":"http://macias.com"
+                    }
+                   
+                ],
+                "title":"Energy transmission in the forbidden band-gap of a nonlinear chain with global interactions",
+                "journal":"Journal of Physics A: Mathematical and Theoretical",
+                "ref":"https://iopscience.iop.org/journal/1751-8121",
+                "pages":"Volume 53 Number 50",
+                "type":"© 2020 IOP Publishing Ltd",
+                "link_name":"https://iopscience.iop.org/journal/1751-8121"
+
+             },
+             {
+                "id":15,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"J. E. Macias-Diaz",
+                        "link":"http://macias.com"
+                    }
+                   
+                ],
+                "title":"On the wave transmission in a discrete nonlinear left-handed electrical lattice, Wave in random and complex media",
+                "journal":"Wave in random and complex media,(2020)",
+                "ref":"https://doi.org/10.1080/17455030.2020.1859166",
+                "pages":"",
+                "type":"© 2020 Informa UK Limited, trading as Taylor & Francis Group",
+                "link_name":"https://doi.org/10.1080/17455030.2020.1859166"
+
+             }
+            ]
+    },
+    {
+        "year":"2021",
+        "publication":[
+            {
+                "id":16,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Thomas Kanaa",
+                        "link":"http://kanaa.com"
+                    },
+                    {
+                        "name":"S. Ndjakomo Essiane",
+                        "link":"http://Essiane.com"
+                    }
+                ],
+                "title":"Backward-energy Propagation in Nonlinear Magnetic Metamaterials",
+                "journal":"Journal of Superconductivity and Novel Magnetism, (2021) 34:2619–2626,",
+                "ref":"https://doi.org/10.1007/s10948-021-05921-y",
+                "pages":"",
+                "type":"Springer",
+                "link_name":"https://doi.org/10.1007/s10948-021-05921-y"
+
+             }
+            ]
+    },
+         {
+        "year":"2022",
+        "publication":[
+            {
+                "id":17,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"E. Nkendji Kenkeu",
+                        "link":"http://kenkeeu.com"
+                    },
+                     {
+                        "name":"Thomas Kanaa",
+                        "link":"http://kanaa.com"
+                    },
+                     {
+                        "name":"C. Tchawoua",
+                        "link":"http://tchawoua.com"
+                    }
+                   
+                ],
+                "title":"Waves propagation with longitudinal dust grain oscillations in dusty plasma crystals,",
+                "journal":"Physics of Plasmas 29, 043702 (2022)",
+                "ref":"doi: 10.1063/5.0084004",
+                "pages":"",
+                "type":"American Institute of Physics (AIP)",
+                "link_name":"doi: 10.1063/5.0084004"
+
+             },
+             {
+                "id":18,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+     
+                    {
+                        "name":"A. Kamdoum Kuitche",
+                        "link":"http://kamboum.com"
+                    },
+                     {
+                        "name":"Thomas Kanaa",
+                        "link":"http://kanaa.com"
+                    },
+                     {
+                        "name":"C. Tchawoua",
+                        "link":"http://tchawoua.com"
+                    }
+                   
+                ],
+                "title":"Supratransmission in transversely connected nonlinear pendulum pairs",
+                "journal":"Chaos Solitons and Fractals 160, (2022)",
+                "ref":"https://doi.org/10.1016/j.chaos.2022.112196",
+                "pages":"",
+                "type":"Elsevier",
+                "link_name":"https://doi.org/10.1016/j.chaos.2022.112196"
+
+             },
+             {
+                "id":19,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"C. Nono Dueyou Buckjohn",
+                        "link":"http://Nono.com"
+                    },
+                                   {
+                        "name":"G. J. Fezeu",
+                        "link":"http://fezeu.com"
+                    },
+                     {
+                        "name":"M. Siewe Siewe",
+                        "link":"http://siewe.con"
+                    },
+                     {
+                        "name":"C. Tchawoua",
+                        "link":"http://tchawoua.com"
+                    }
+                   
+                ],
+                "title":"Travelling waves in discrete electrical lattice with nonlinear symmetric capacitor",
+                "journal":"Journal of computational electronics, (2022)",
+                "ref":"https://doi.org/10.1007/s10825-022-01971-0",
+                "pages":"",
+                "type":"Springer",
+                "link_name":"https://doi.org/10.1007/s10825-022-01971-0"
+
+             }
+            ]
+    },
+        {
+        "year":"2023",
+        "publication":[
+            {
+                "id":16,
+                "main_autor":"Alain Bertrand Togueu Motcheyo",
+                "sub_autor":[
+                    {
+                        "name":"Clement Tchawoua",
+                        "link":"http://clement.com"
+                    },
+                    {
+                        "name":"Thomas Kanaa",
+                        "link":"http://kanaa.com"
+                    },
+                    {
+                        "name":"A. Kamdoum Kuitche",
+                        "link":"http://kamboum.com"
+                    }
+                ],
+                "title":"Modulational instability in transversely connected nonlinear pendulum pairs",
+                "journal":"European Physical Journal Plus 138 (2023) 142",
+                "ref":"https://doi.org/10.1140/epjp/s13360-023-03761-4",
+                "pages":"",
+                "type":"Springer",
+                "link_name":"https://doi.org/10.1140/epjp/s13360-023-03761-4"
+
+             }
+            ]
+    }
+    
+]
