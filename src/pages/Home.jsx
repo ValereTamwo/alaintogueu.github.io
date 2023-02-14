@@ -1,6 +1,8 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
+import Footer from '../components/Footer'
 import Header from '../components/Header'
+import Welcome from '../components/Welcome'
 import dataJ from '../data/data.json'
 function Home() {
 
@@ -22,7 +24,9 @@ function Home() {
 
   return (
     <>
-      <Header/>
+      <Header />
+      <Welcome />
+      <Footer/>
     </>
   )
 }

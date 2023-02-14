@@ -8,7 +8,7 @@ function Header() {
     ]
   return (
       <>
-          <header className='container-fluid navbar navbar-expand-lg p-2  bg-dark navbar-dark'>
+          <header className='container-fluid navbar navbar-expand-lg p-2  bg-secondary  border-bottom border-1 border-light  navbar-dark shadow sticky-top'>
               <div className='container'>
         
                         <a  href='/' className='navbar-brand  fs-4 text-light'>
