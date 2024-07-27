@@ -1,0 +1,259 @@
+{
+  "publications": [
+    {
+      "grade": "Senior Lecturer",
+      "papers": [
+        {
+          "id": 23,
+          "authors": "A. B. Togueu Motcheyo, Masayuki Kimura, Yusuke Doi, Juan F. R. Archilla",
+          "title": "Nonlinear bandgap transmission by discrete rogue waves induced in a pendulum chain",
+          "journal": "Physics Letters A",
+          "volume": 497,
+          "year": 2024,
+          "doi": "https://doi.org/10.1016/j.physleta.2024.129334",
+          "publisher": "Elsevier"
+        },
+        {
+          "id": 22,
+          "authors": "A. Kamdoum Kuitche, A. B. Togueu Motcheyo, Zakary Yaou, Thomas Kanaa, C. Tchawoua",
+          "title": "Bright soliton propagation with loss and gain phenomena in transversely connected nonlinear pendulum pairs",
+          "journal": "Modern Physics Letters B",
+          "volume": 38,
+          "issue": 26,
+          "year": 2024,
+          "doi": "https:///dx.doi.org/10.1142/S0217984924502166"
+        },
+        {
+          "id": 21,
+          "authors": "A. B. Togueu Motcheyo, J. E. Macias-Diaz",
+          "title": "Nonlinear bang gap transmission with zero frequency in cross-stitch lattice",
+          "journal": "Chaos, Solitons and Fractals",
+          "volume": 170,
+          "year": 2023,
+          "doi": "https://doi.org/10.1016/j.chaos.2023.113349"
+        },
+        {
+          "id": 20,
+          "authors": "A. Kamdoum Kuitche, A. B. Togueu Motcheyo, Thomas Kanaa, C. Tchawoua",
+          "title": "Modulational instability in transversely connected nonlinear pendulum pairs",
+          "journal": "European Physical Journal Plus",
+          "volume": 138,
+          "year": 2023,
+          "doi": "https://doi.org/10.1140/epjp/s13360-023-03761-4"
+        },
+        {
+          "id": 19,
+          "authors": "A. B. Togueu Motcheyo, G. J. Fezeu, M. Siewe Siewe, C. Nono Dueyou Buckjohn, C. Tchawoua",
+          "title": "Travelling waves in discrete electrical lattice with nonlinear symmetric capacitor",
+          "journal": "Journal of Computational Electronics",
+          "year": 2022,
+          "doi": "https://doi.org/10.1007/s10825-022-01971-0",
+          "publisher": "Springer"
+        },
+        {
+          "id": 18,
+          "authors": "A. Kamdoum Kuitche, A. B. Togueu Motcheyo, Thomas Kanaa, C. Tchawoua",
+          "title": "Supratransmission in transversely connected nonlinear pendulum pairs",
+          "journal": "Chaos Solitons and Fractals",
+          "volume": 160,
+          "year": 2022,
+          "doi": "https://doi.org/10.1016/j.chaos.2022.112196",
+          "publisher": "Elsevier"
+        },
+        {
+          "id": 17,
+          "authors": "E. Nkendji Kenkeu, A. B. Togueu Motcheyo, Thomas Kanaa, C. Tchawoua",
+          "title": "Wave propagation with longitudinal dust grain oscillations in dusty plasma crystals",
+          "journal": "Physics of Plasmas",
+          "volume": 29,
+          "year": 2022,
+          "doi": "10.1063/5.0084004",
+          "publisher": "American Institute of Physics"
+        }
+      ]
+    },
+    {
+      "grade": "Assistant Lecturer",
+      "papers": [
+        {
+          "id": 16,
+          "authors": "A. B. Togueu Motcheyo, Thomas Kanaa, S. Ndjakomo Essiane",
+          "title": "Backward‑energy Propagation in Nonlinear Magnetic Metamaterials",
+          "journal": "Journal of Superconductivity and Novel Magnetism",
+          "volume": 34,
+          "pages": "2619–2626",
+          "year": 2021,
+          "doi": "https://doi.org/10.1007/s10948-021-05921-y",
+          "publisher": "Springer"
+        },
+        {
+          "id": 15,
+          "authors": "A. B. Togueu Motcheyo, J. E. Macias-Diaz",
+          "title": "On the wave transmission in a discrete nonlinear left-handed electrical lattice",
+          "journal": "Wave in Random and Complex Media",
+          "year": 2020,
+          "doi": "https://doi.org/10.1080/17455030.2020.1859166",
+          "publisher": "Taylor & Francis Group"
+        },
+        {
+          "id": 14,
+          "authors": "A. B. Togueu Motcheyo, J. E. Macias-Diaz",
+          "title": "Energy transmission in the forbidden band-gap of a nonlinear chain with global interactions",
+          "journal": "Journal of Physics A: Mathematical and Theoretical",
+          "volume": 53,
+          "issue": 50,
+          "year": 2020,
+          "doi": "https://doi.org/10.1088/1751-8121/abc3fd",
+          "publisher": "IOP Publishing Ltd"
+        },
+        {
+          "id": 13,
+          "authors": "J. E. Macias-Diaz, A. B. Togueu Motcheyo",
+          "title": "Energy transmission in nonlinear chains of harmonic oscillators with long-range interactions",
+          "journal": "Results in Physics",
+          "volume": 18,
+          "year": 2020,
+          "doi": "https://doi.org/10.1016/j.rinp.2020.103210",
+          "publisher": "Elsevier"
+        }
+      ]
+    },
+    {
+      "grade": "Before Recruitment",
+      "papers": [
+        {
+          "id": 12,
+          "authors": "A. B. Togueu Motcheyo, Masayuki Kimura, Yusuke Doi, C. Tchawoua",
+          "title": "Supratransmission in discrete one-dimensional lattices with the cubic–quintic nonlinearity",
+          "journal": "Nonlinear Dynamics",
+          "volume": 95,
+          "pages": "2461–2468",
+          "year": 2019,
+          "doi": "https://doi.org/10.1007/s11071-018-4707-y",
+          "publisher": "Springer"
+        },
+        {
+          "id": 11,
+          "authors": "A. B. Togueu Motcheyo, E. Nkendji Kenkeu, Joseph Djako, C. Tchawoua",
+          "title": "Backward-wave propagation with vertical dust grain oscillations in dusty plasma crystals",
+          "journal": "Physics of Plasmas",
+          "volume": 25,
+          "pages": "123701",
+          "year": 2018,
+          "doi": "10.1063/1.5054095",
+          "publisher": "American Institute of Physics"
+        },
+        {
+          "id": 10,
+          "authors": "A. B. Togueu Motcheyo, J. D. Tchinang Tchameu, S. I. Fewo, C. Tchawoua, T. C. Kofane",
+          "title": "Chameleon's behavior of modulable nonlinear electrical transmission line",
+          "journal": "Commun Nonlinear Sci Numer Simulat",
+          "volume": 53,
+          "pages": "22–30",
+          "year": 2017,
+          "doi": "https://doi.org/10.1016/j.cnsns.2017.04.031",
+          "publisher": "Elsevier"
+        },
+        {
+          "id": 9,
+          "authors": "J. D. Tchinang Tchameu, A. B. Togueu Motcheyo, C. Tchawoua",
+          "title": "Multibreathers-impurity interactions in the discrete nonlinear Schrödinger model",
+          "journal": "Chaos, Solitons and Fractals",
+          "volume": 99,
+          "pages": "180–184",
+          "year": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.chaos.2017.04.007",
+          "publisher": "Elsevier"
+        },
+        {
+          "id": 8,
+          "authors": "A. B. Togueu Motcheyo, J. D. Tchinang Tchameu, M. S. Siewe Siewe, C. Tchawoua",
+          "title": "Breathers propagation in ferromagnetic materials with impurities",
+          "journal": "Eur. Phys. J. B",
+          "volume": 90,
+          "issue": 2,
+          "year": 2017,
+          "doi": "https://doi.org/10.1140/epjb/e2016-70426-1",
+          "publisher": "Springer"
+        },
+        {
+          "id": 7,
+          "authors": "A. B. Togueu Motcheyo, Joseph Djako, C. Tchawoua",
+          "title": "Backward and Forward Energy Propagation in One Dimensional Magnetic Metamaterials",
+          "journal": "J Supercond Nov Magn",
+          "volume": 29,
+          "pages": "3011–3016",
+          "year": 2016,
+          "doi": "10.1007/s10948-016-3650-x",
+          "publisher": "Springer"
+        },
+        {
+          "id": 6,
+          "authors": "Joseph Djako, A. B. Togueu Motcheyo, S. I. Fewo, C. Tchawoua",
+          "title": "Soliton transmission in nonlinear electrical transmission line",
+          "journal": "Commun Nonlinear Sci Numer Simulat",
+          "volume": 29,
+          "pages": "126–132",
+          "year": 2015,
+          "doi": "https://doi.org/10.1016/j.cnsns.2015.05.001",
+          "publisher": "Elsevier"
+        },
+        {
+          "id": 5,
+          "authors": "Joseph Djako, A. B. Togueu Motcheyo, S. I. Fewo, C. Tchawoua",
+          "title": "Energy propagation in one-dimensional nonlinear metamaterial",
+          "journal": "Commun Nonlinear Sci Numer Simulat",
+          "volume": 22,
+          "pages": "863–871",
+          "year": 2015,
+          "doi": "https://doi.org/10.1016/j.cnsns.2014.08.018",
+          "publisher": "Elsevier"
+        },
+        {
+          "id": 4,
+          "authors": "S. I. Fewo, A. B. Togueu Motcheyo, M. S. Siewe Siewe, C. Tchawoua",
+          "title": "Energy propagation in nonlinear ferromagnetic media",
+          "journal": "Physica Scripta",
+          "volume": 89,
+          "issue": 11,
+          "year": 2014,
+          "doi": "https://doi.org/10.1088/0031-8949/89/11/115204",
+          "publisher": "IOP Publishing Ltd"
+        },
+        {
+          "id": 3,
+          "authors": "A. B. Togueu Motcheyo, Joseph Djako, C. Tchawoua",
+          "title": "Breather-traveling wave transition in ferromagnetic materials with easy-plane anisotropy",
+          "journal": "J Supercond Nov Magn",
+          "volume": 27,
+          "pages": "2483–2489",
+          "year": 2014,
+          "doi": "10.1007/s10948-014-2707-3",
+          "publisher": "Springer"
+        },
+        {
+          "id": 2,
+          "authors": "Joseph Djako, A. B. Togueu Motcheyo, S. I. Fewo, C. Tchawoua",
+          "title": "Energy propagation in nonlinear metamaterials",
+          "journal": "J Supercond Nov Magn",
+          "volume": 26,
+          "pages": "1357–1361",
+          "year": 2013,
+          "doi": "10.1007/s10948-012-1990-7",
+          "publisher": "Springer"
+        },
+        {
+          "id": 1,
+          "authors": "Joseph Djako, A. B. Togueu Motcheyo, S. I. Fewo, C. Tchawoua",
+          "title": "Soliton scattering by impurities in nonlinear electrical transmission line",
+          "journal": "Commun Nonlinear Sci Numer Simulat",
+          "volume": 18,
+          "pages": "3415–3424",
+          "year": 2013,
+          "doi": "https://doi.org/10.1016/j.cnsns.2013.05.015",
+          "publisher": "Elsevier"
+        }
+      ]
+    }
+  ]
+}

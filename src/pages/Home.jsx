@@ -4,17 +4,17 @@ import Footer from '../components/Footer'
 import Header from '../components/Header'
 import Welcome from '../components/Welcome'
 import dataJ from '../data/data.json'
+import Publics from '../components/Publics'
+import ConferenceTalks from '../components/Conf'
+import Publications from '../components/publication'
+
+export function data() {
+  return{dataJ}
+}
+
 function Home() {
 
     const [data,setData] = useState([])
-
-    const fetch_data = () => {
-        fetch('../data/data.json')
-            .then((res) => JSON.parse(res))
-            .then((data) => {
-            setData(data)
-        })
-    }
     
     useEffect(() => {
         // fetch_data()
@@ -24,9 +24,20 @@ function Home() {
 
   return (
     <>
+      
       <Header />
-      <Welcome />
-      <Footer/>
+      <main>
+        <Welcome />
+        <section id='publication' style={{paddingTop:'8vh'}}>
+          <Publications/>
+        </section>
+        <section id='conference'   style={{paddingTop:'5vh'}}>
+            <ConferenceTalks/>
+        </section>
+        <section id='Awards'></section>
+      </main>
+        <Footer />
+        
     </>
   )
 }
