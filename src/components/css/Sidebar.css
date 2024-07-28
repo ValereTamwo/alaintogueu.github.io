@@ -1,0 +1,71 @@
+/* Sidebar Styles */
+.sidebar {
+  background-color: rgba(43, 43, 43, 0.8);
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  transition: transform 0.3s ease; /* Smooth transition for opening/closing */
+  transform: translateX(-100%); /* Start hidden off-screen */
+  z-index: 1000;
+}
+
+.sidebar-open {
+  transform: translateX(0); /* Move into view */
+}
+
+.sidebar-toggle {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  background-color: rgba(43, 43, 43, 0.8);
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1100;
+}
+
+.sidebar-toggle .navbar-toggler-icon {
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  display: block;
+  position: relative;
+}
+
+.sidebar-toggle .navbar-toggler-icon::before,
+.sidebar-toggle .navbar-toggler-icon::after {
+  content: '';
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  display: block;
+  position: absolute;
+  left: 0;
+}
+
+.sidebar-toggle .navbar-toggler-icon::before {
+  top: -8px;
+}
+
+.sidebar-toggle .navbar-toggler-icon::after {
+  top: 8px;
+}
+
+/* Desktop Styles: Sidebar is always visible */
+@media (min-width: 768px) {
+  .sidebar {
+    display: block;
+    position: relative;
+    transform: translateX(0); /* Always visible on desktop */
+    width: auto;
+    height: auto;
+    transition: none;
+  }
+
+  .sidebar-toggle {
+    display: none; /* Hide toggle button on desktop */
+  }
+}

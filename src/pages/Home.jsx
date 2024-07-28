@@ -7,6 +7,11 @@ import dataJ from '../data/data.json'
 import Publics from '../components/Publics'
 import ConferenceTalks from '../components/Conf'
 import Publications from '../components/publication'
+import Sidebar from '../components/Sidebar'
+import Awards from '../components/Awards'
+import Visits from '../components/Visit'
+import Colaborators from '../components/Colaborators'
+import Conference from '../components/Conference'
 
 export function data() {
   return{dataJ}
@@ -24,20 +29,36 @@ function Home() {
 
   return (
     <>
+      <div className="d-none d-md-block">
+        <Sidebar />
+      </div>
       
-      <Header />
+      {/* Header visible on small screens */}
+      <div className="d-block d-md-none">
+        <Header />
+      </div>
       <main>
         <Welcome />
-        <section id='publication' style={{paddingTop:'8vh'}}>
-          <Publications/>
+        <section id="publication">
+          <Publications />
         </section>
-        <section id='conference'   style={{paddingTop:'5vh'}}>
-            <ConferenceTalks/>
+        <section id="conference">
+          <ConferenceTalks />
+          {/* <Conference/> */}
         </section>
-        <section id='Awards'></section>
+        <section id="Award">
+          <Awards/>
+        </section>
+        <section id='visit'>
+          <Visits/>
+        </section>
       </main>
+      <section id='colaborators'>
+        <Colaborators/>
+      </section>
+      <div className='d-block d-md-none'>
         <Footer />
-        
+      </div>
     </>
   )
 }

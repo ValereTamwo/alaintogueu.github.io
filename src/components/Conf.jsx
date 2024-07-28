@@ -18,13 +18,15 @@ export function ConferenceItems(props) {
                                             </div>
                                             <div className='col-md-9 col-12'>
                                                 <h4 className='fs-5'>{talkNumber}. {item.title}</h4>
+                                                {item.author && <p>{item.author}</p>}
+
                                                 <p>
                                                     <h6 className='fw-bold'><u>{item.event}</u></h6>
                                                 </p>
                                                 <p>{item.location}</p>
                                                 <p>{item.date}</p>
                                                 {item.ref && (
-                                                    <p><u><a href={item.ref} className='nav-link text-warning'>Link to Event</a></u></p>
+                                                    <p><u><a href={item.ref} className='nav-link text-warning'>{item.name}</a></u></p>
                                                 )}
                                             </div>
                                         </div>

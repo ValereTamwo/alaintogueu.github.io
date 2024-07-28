@@ -28,19 +28,19 @@ const Publications = () => {
     <div className='container text-white' >
               <div className='row d-flex justify-content-center'>
               <div className='col-12 col-md-8 p-2 b'>
-              <h4 className='fs-1   '>Publications</h4>
+              <h4 className='fs-1  border-bottom p-4 mb-5'>Publications</h4>
 
                   
       {publicationsData.publications.map((publication, index) => (
         <div key={index} className="mb-8">
-          <h2 className="fs-3 font-bold mb-4">{publication.grade}</h2>
+          {/* <h2 className="fs-3 font-bold mb-4">{publication.grade}</h2> */}
           <ul className="list-disc pl-5">
             {publication.papers.map((paper) => (
               <li key={paper.id} className="mb-2">
-               <span>{paper.id}-:</span><b> {` ${paper.title},   `}</b>
+               <span>{paper.id}-:</span><b> {` ${paper.title}   `}</b><br/>
                 
                 {formatAuthors(paper.authors)}
-                <em>{paper.journal}</em> {paper.volume} ({paper.year}){' '}
+                <em> {paper.journal}</em> {paper.volume} ({paper.year}){' '}
                 {paper.pages ? `pp. ${paper.pages}` : ''}.{' '}
                 <a
                   href={paper.doi}

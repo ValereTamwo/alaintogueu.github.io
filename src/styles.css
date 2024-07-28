@@ -1,0 +1,17 @@
+/* styles.css */
+.sidebar {
+  display: block;
+}
+
+.header {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .sidebar {
+    display: none;
+  }
+  .header {
+    display: block;
+  }
+}

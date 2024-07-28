@@ -4,6 +4,7 @@ import { BrowserRouter , Route ,Routes } from 'react-router-dom';
 import Gallery from './pages/Gallery';
 import Conference from './pages/Conference';
 import Publications from './components/publication';
+import './styles.css'
 
 function App() {
   return (

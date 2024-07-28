@@ -1,0 +1,30 @@
+{
+    "awards":[
+  {
+    "id": 5,
+    "title": "Travel grant to attend 709. WE-Heraeus-Seminar on “Quantization of Dissipative Chaos: ideas and Means“",
+    "date": "16 Dec - 20 Dec 2019",
+    "location": "Physikzentrum Bad Honnef, Hauptstrasse 5, 53604 Bad Honnef/ GERMANY"
+  },
+  {
+    "id": 4,
+    "title": "Travel grant to attend SNHPS18",
+    "location": "Max Planck Institute for the Physics of Complex Systems, Noethnitzer Str. 38, 01187 Dresden, Germany"
+  },
+  {
+    "id": 3,
+    "title": "Travel grant to attend ILM218",
+    "location": "Department of Electrical Engineering, Graduate School of Engineering, Kyoto University, Japan"
+  },
+  {
+    "id": 2,
+    "title": "Elsevier Reviewer recognition"
+    
+  },
+  {
+    "id": 1,
+    "title": "Travel grant to attend dindos17",
+    "location": "Max Planck Institute for the Physics of Complex Systems, Noethnitzer Str. 38, 01187 Dresden, Germany"
+  }
+    ]
+}

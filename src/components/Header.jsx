@@ -15,12 +15,20 @@ function Header() {
           <nav className='navbar-collapse collapse d-md-flex justify-content-md-end' id='menu'>
             <ul className='navbar-nav'>
               <li className='nav-item d-flex justify-content-center'><a href='#' className='nav-link text-light'>home</a></li>
+              <li className='nav-item d-flex justify-content-center'><a href='#degree' className='nav-link text-light'>Academic Degrees</a></li>
+
+              <li className='nav-item d-flex justify-content-center'><a href='#career' className='nav-link text-light'>Career</a></li>
+
               <li className='nav-item d-flex justify-content-center'><a href='#publication' className='nav-link text-light'>publications</a></li>
               <li className='nav-item d-flex justify-content-center'><a href='#conference' className='nav-link text-light'>conferences</a></li>
               {/* <li className='nav-item d-flex justify-content-center'><a href='#galery' className='nav-link text-light'>gallery</a></li> */}
               {/* <li className='nav-item d-flex justify-content-center'><a href='/' className='nav-link text-light'>courses</a></li> */}
+              
               <li className='nav-item d-flex justify-content-center'><a href='#' className='nav-link text-light'>Awards</a></li>
-              <li className='nav-item d-flex justify-content-center'><a href='#' className='nav-link text-light'>Update: 16-Jul-2024</a></li>
+              <li className='nav-item d-flex justify-content-center'><a href='#visit' className='nav-link text-light'>Visits</a></li>
+              <li className='nav-item d-flex justify-content-center'><a href='#collaborators' className='nav-link text-light'>Colaborators Abroad</a></li>
+
+              <li className='nav-item d-flex justify-content-center'><a href='#' className='nav-link  text-light'><u>Update: 27-Jul-2024</u></a></li>
 
             </ul>
           </nav>
