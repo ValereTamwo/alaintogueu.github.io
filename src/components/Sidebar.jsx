@@ -14,7 +14,7 @@ function Sidebar() {
 
      <aside style={{ backgroundColor: 'rgba(43, 43, 43, 0.8)', height: '100vh', position: 'fixed', top: 0, left: 0, width: '250px', zIndex: 1000 }} className={`d-flex flex-column p-3 border-end border-1 border-light shadow`}>
         <a href='/' className='fs-4 text-light mb-4'>
-          <span> A. B. Togueu Motcheyo</span>
+          <span> Alain B. Togueu Motcheyo</span>
         </a>
         <nav className='d-flex flex-column'>
           <a href='#' className='nav-link text-light mb-2'>Home</a>

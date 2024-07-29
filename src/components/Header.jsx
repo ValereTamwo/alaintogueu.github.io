@@ -6,7 +6,7 @@ function Header() {
       <header style={{ backgroundColor: 'rgba(43, 43, 43, 0.8)' }} className='container-fluid navbar navbar-expand-lg p-2 border-bottom border-1 border-light shadow sticky-top'>
         <div className='container'>
           <a href='/' className='navbar-brand fs-4 text-light'>
-            <span> A. B. Togueu Motcheyo</span>
+            <span> Alain B. Togueu Motcheyo</span>
           </a>
           <button className='btn navbar-toggler border-0' data-bs-toggle='collapse' data-bs-target='#menu'>
             <span className='navbar-toggler-icon'></span>
