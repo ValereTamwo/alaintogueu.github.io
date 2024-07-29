@@ -1,0 +1,11 @@
+
+body{
+    font-family: 'Poppins';
+    background-color: rgba(68, 66, 63, 0.842);
+    
+}
+
+.section {
+  padding-top: 80px; /* Ajustez cette valeur en fonction de la hauteur de votre header */
+  margin-top: -80px; /* Ajustez cette valeur en fonction de la hauteur de votre header */
+}

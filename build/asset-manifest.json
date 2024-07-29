@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alaintogueu.github.io/static/css/main.54507027.css",
+    "main.js": "/alaintogueu.github.io/static/js/main.1df9d779.js",
+    "static/js/787.ff200d69.chunk.js": "/alaintogueu.github.io/static/js/787.ff200d69.chunk.js",
+    "static/media/p1.JPG": "/alaintogueu.github.io/static/media/p1.f58a8ef08da8da4a6115.JPG",
+    "static/media/p2.JPG": "/alaintogueu.github.io/static/media/p2.1e7174d836e7cf14894d.JPG",
+    "static/media/p3.JPG": "/alaintogueu.github.io/static/media/p3.65aba9e87d52c51d4169.JPG",
+    "static/media/profil.jpg": "/alaintogueu.github.io/static/media/profil.0fb46b9a9c805bc5490c.jpg",
+    "index.html": "/alaintogueu.github.io/index.html",
+    "main.54507027.css.map": "/alaintogueu.github.io/static/css/main.54507027.css.map",
+    "main.1df9d779.js.map": "/alaintogueu.github.io/static/js/main.1df9d779.js.map",
+    "787.ff200d69.chunk.js.map": "/alaintogueu.github.io/static/js/787.ff200d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54507027.css",
+    "static/js/main.1df9d779.js"
+  ]
+}
